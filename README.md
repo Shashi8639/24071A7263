@@ -425,6 +425,6 @@ No external libraries are required for the DFA and NFA simulators; the NFA→DFA
 
 # 👤 Author
 
-**Mallidi Sscvv Ramakrishna Reddy**
+**V SHASHIDHAR**
 
 Student Project — Automata & Compiler Design
