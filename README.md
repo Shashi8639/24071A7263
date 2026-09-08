@@ -406,6 +406,13 @@ jupyter notebook ACD_1.ipynb
 No external libraries are required for the DFA and NFA simulators; the NFA→DFA converter uses Python's standard library components.
 
 ---
+## 🎥 Demo Video
+
+A complete demonstration of this assignment is provided in the video below. The video explains the implementation, logic, state traversal, test cases, and outputs of the DFA, NFA, and NFA to DFA conversion programs.
+
+### Demo Video — Automata Theory Assignment
+
+[▶️ Watch the Demo Video](https://drive.google.com/file/d/1BuBsfQaliF8D7jQxEQ_lOOLbeFOcfFcd/view?usp=sharing)
 
 # 📚 Concepts Demonstrated
 
